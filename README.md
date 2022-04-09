@@ -1,7 +1,5 @@
 # VITMAS_TASK0_21MID0045
 
-# VITMAS_TASK0_21MID0045
-
 # Git Commands
 
 ## 1.git init
